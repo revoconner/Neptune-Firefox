@@ -1,3 +1,7 @@
+## This fork aims to unhide all hidden elements in the original themes, makes active tabs more visible and shows bookmark toolbar with the icons.
+
+
+
 <h1 align="center"><strong>Neptune Firefox</strong></h1>
 
 **Instructions:** 
